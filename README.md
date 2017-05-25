@@ -12,7 +12,7 @@ Das Twitch-Modul zeigt aktive Twitch Livestreams auf deinem Glancr an.
 
 ## Download
 
-Du kannst dir [hier](https://glancr.de/module/produktivitaet/twitch/) die neuste Version des Moduls herunterladen. <br>
+Du kannst dir [hier](https://glancr.de/module/unterhaltung/twitch/) die neuste Version des Moduls herunterladen. <br>
 Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 
 
@@ -21,7 +21,7 @@ Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 ![Preview](assets/modulpreviews_twitch.png)
 
 ## Weitere Informationen
-* [Twitch-Modul](https://glancr.de/module/produktivitaet/twitch/)
+* [Twitch-Modul](https://glancr.de/module/unterhaltung/twitch/)
 * [Glancr](https://glancr.de)
 * [mirrOS](https://glancr.de/mirr-os)
 
