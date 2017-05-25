@@ -1,0 +1,26 @@
+#twitch_list {
+	font-size: 10pt;
+	margin-left: 10px;
+}
+
+#twitch_table {
+	padding-top: 0px;
+}
+
+#twitch_table td {
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 2px;
+	padding-right: 15px;
+	white-space: nowrap;
+}
+
+#twitch_table i {
+	padding-right: 10px;
+}
+
+#twitch_table img {
+  filter: gray;
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+}
