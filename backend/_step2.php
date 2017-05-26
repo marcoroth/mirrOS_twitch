@@ -24,12 +24,12 @@
 <label for="twitch_sort_by"><?php echo _("twitch_sort_by") ?></label>
 <select name="twitch_sort_by" id="twitch_sort_by">
 	<option value="" disabled><?php echo _("twitch_sort_by") ?></option>
-	<option value="name_asc" <?php if ($twitch_sort_by == "name_asc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_name") ?> ↑</option>
-	<option value="name_desc" <?php if ($twitch_sort_by == "name_desc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_name") ?> ↓</option>
-	<option value="game_asc" <?php if ($twitch_sort_by == "game_asc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_game") ?> ↑</option>
-	<option value="game_desc" <?php if ($twitch_sort_by == "game_desc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_game") ?> ↓</option>
-	<option value="viewers_asc" <?php if ($twitch_sort_by == "viewers_asc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_viewers") ?> ↑</option>
-	<option value="viewers_desc" <?php if ($twitch_sort_by == "viewers_desc"){ echo "checked"; } ?>><?php echo _("twitch_sort_by_viewers") ?> ↓</option>
+	<option value="name_asc" <?php if ($twitch_sort_by == "name_asc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_name") ?> ↑</option>
+	<option value="name_desc" <?php if ($twitch_sort_by == "name_desc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_name") ?> ↓</option>
+	<option value="game_asc" <?php if ($twitch_sort_by == "game_asc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_game") ?> ↑</option>
+	<option value="game_desc" <?php if ($twitch_sort_by == "game_desc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_game") ?> ↓</option>
+	<option value="viewers_asc" <?php if ($twitch_sort_by == "viewers_asc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_viewers") ?> ↑</option>
+	<option value="viewers_desc" <?php if ($twitch_sort_by == "viewers_desc"){ echo "selected"; } ?>><?php echo _("twitch_sort_by_viewers") ?> ↓</option>
 </select>
 
 <a href="/modules/twitch/assets/resetConfig.php"><?php echo _("twitch_reset_config") ?></a><br /><br />
