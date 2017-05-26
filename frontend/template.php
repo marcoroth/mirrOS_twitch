@@ -7,3 +7,9 @@
 		<td><?php echo _('twitch_loading_streams') ?></td>
 	</tr>
 </table>
+
+<style>
+	#twitch_table td {
+		max-width: <?php echo getConfigValue('twitch_stream_name_length') ?>px;
+	}
+</style>

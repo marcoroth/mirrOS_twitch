@@ -5,6 +5,7 @@
 
 #twitch_table {
 	padding-top: 0px;
+	max-width: 100%;
 }
 
 #twitch_table td {
@@ -13,6 +14,8 @@
 	padding-bottom: 2px;
 	padding-right: 15px;
 	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
 }
 
 #twitch_table i {

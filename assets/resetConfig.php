@@ -9,7 +9,8 @@
 	setConfigValue("twitch_include_user_icon", "true");
 	setConfigValue("twitch_include_profil_pic", "true");
 	setConfigValue("twitch_include_viewer_count", "true");
-	setConfigValue("twitch_stream_name_length", "25");
+	setConfigValue("twitch_stream_name_length", "230");
+	setConfigValue("twitch_sort_by", "viewers_desc");
 
 	setConfigValue("reload", "1");
 
