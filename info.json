@@ -1,13 +1,13 @@
 {
 	"module": {
 		"name": "Twitch",
-		"version": "1.0.0",
+		"version": "1.1.0",
 		"description": "Zeigt die aktiven Livestreams von Twitch auf deinem Spiegel an",
 		"module_url": "https://glancr.de/module/unterhaltung/twitch/",
-		"download_url": "https://api.glancr.de/update/moduleZips/twitch-1.0.0.zip",
+		"download_url": "https://api.glancr.de/update/moduleZips/twitch-1.1.0.zip",
 		"category": "unterhaltung",
 		"release_date": "2017-05-25",
-		"last_update": "2017-05-25"
+		"last_update": "2017-05-26"
 	},
 	"creator": {
 		"name": "Marco Roth",
