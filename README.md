@@ -6,7 +6,7 @@ Das Twitch-Modul zeigt aktive Twitch Livestreams auf deinem Glancr an.
 ## Voraussetzungen
 
 * Twitch-Account
-* Twitch Client ID ([zum Tutorial](https://glancr.de/tutorials/das-twitch-modul-konfigurieren/))
+* Twitch Client ID
 * Raspberry mit installiertem [mirrOS](https://glancr.de/mirr-os/)
 
 
