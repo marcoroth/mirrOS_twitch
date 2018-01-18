@@ -1,0 +1,135 @@
+# mirr.OS Twitch Module v1.0.0
+# Copyright (C) 2016
+# Marco Roth <mr@glancr.de>, 2016
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS Twitch Module V1.0\n"
+"POT-Creation-Date: 2016-05-07 11:02+0200\n"
+"PO-Revision-Date: 2018-01-18 18:55+0100\n"
+"Last-Translator: Tobias Grasse <tg@glancr.de>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "twitch_title"
+msgstr "Twitch"
+
+msgid "twitch_description"
+msgstr "このモジュールは、現在ライブストリーミング中のものを表示します。"
+
+msgid "twitch_client_id"
+msgstr "Twitch ID"
+
+msgid "twitch_access_token"
+msgstr "Twitch アクセストークン"
+
+msgid "twitch_step2_title"
+msgstr "フロントエンドオプション"
+
+msgid "twitch_include_game"
+msgstr "ストリームでプレイされたゲームを表示しますか？"
+
+msgid "twitch_include_title"
+msgstr "ストリームタイトルを表示しますか？"
+
+msgid "twitch_include_user_icon"
+msgstr "視聴者数の横にユーザーアイコンを表示しますか？"
+
+msgid "twitch_include_profil_pic"
+msgstr "プロフィール写真を表示しますか？"
+
+msgid "twitch_include_viewer_count"
+msgstr "視聴者数を表示しますか？"
+
+msgid "twitch_stream_name_length"
+msgstr "max. ストリーム名の長さ（ゲーム+タイトル）"
+
+msgid "twitch_step1"
+msgstr "Step 1: Twitchにログイン"
+
+msgid "twitch_step1_desc"
+msgstr "Twitchにログインし、サインインした後にウィンドウをもう一度閉じます。"
+
+msgid "twitch_step1_button"
+msgstr "Twitchにログイン"
+
+msgid "twitch_step2"
+msgstr "Step 2: Twitchアプリケーションを作成する"
+
+msgid "twitch_step2_desc"
+msgstr "<code> Twitch-Developer-Application </ code>を作成する必要があります。 作成するには、下のボタンをクリックし、上記の値をコピーして貼り付けます。"
+
+msgid "twitch_step2_button"
+msgstr "Applicationを作成"
+
+msgid "twitch_step3"
+msgstr "Step 3: クライアントIDを入力する"
+
+msgid "twitch_step3_desc"
+msgstr "アプリケーションを作成したら、Webサイトから<code> Client ID </ code>をコピーして、下のフィールドに貼り付けます。"
+
+msgid "twitch_step3_desc2"
+msgstr "クライアントIDを入力した場合は、<code>保存</ code>をクリックします。"
+
+msgid "twitch_no_access_key"
+msgstr "アクセスキーは生成されません。 設定を確認してください。"
+
+msgid "twitch_loading_streams"
+msgstr "Loading streams…."
+
+msgid "twitch_active_streams"
+msgstr "現在のライブストリーム"
+
+msgid "twitch_max_streams"
+msgstr "max. 表示されるストリームの量"
+
+msgid "twitch_sort_by"
+msgstr "ストリームを並べ替える"
+
+msgid "twitch_sort_by_game"
+msgstr "ゲーム"
+
+msgid "twitch_sort_by_viewers"
+msgstr "視聴者数"
+
+msgid "twitch_sort_by_name"
+msgstr "名前"
+
+msgid "twitch_reset_config"
+msgstr "リセット設定"
+
+msgid "twitch_save"
+msgstr "設定を保存"
+
+#~ msgid "twitch_select_list"
+#~ msgstr "Select your twitch:"
+
+#~ msgid "twitch_include_completed_yes"
+#~ msgstr "Yes"
+
+#~ msgid "twitch_include_completed_no"
+#~ msgstr "No"
+
+#~ msgid "twitch_more_tasks"
+#~ msgstr "other tasks"
+
+#~ msgid "twitch_get_keys"
+#~ msgstr "Here can you get your keys:"
+
+#~ msgid "twitch_sort_alphabetical"
+#~ msgstr "sort alphabetically"
+
+#~ msgid "twitch_sort_alphabetical_reverse"
+#~ msgstr "sort alphabetically reversed"
+
+#~ msgid "twitch_max_tasks"
+#~ msgstr "max amount of tasks"
+
+#~ msgid "twitch_max_tasks_completed"
+#~ msgstr "amount of completed tasks"
